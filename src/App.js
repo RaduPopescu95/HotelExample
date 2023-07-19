@@ -14,7 +14,7 @@ import './assets/css/responsive.css'
 
 export default function App() {
   return (
-    <Router>
+    <Router >
       <Routing />
     </Router>
   );
