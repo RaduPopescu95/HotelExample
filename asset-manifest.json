@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HotelExample.git/static/css/main.168b7139.css",
-    "main.js": "/HotelExample.git/static/js/main.b7e3c1d3.js",
+    "main.js": "/HotelExample.git/static/js/main.92329e2c.js",
     "static/js/787.2f223a0b.chunk.js": "/HotelExample.git/static/js/787.2f223a0b.chunk.js",
     "static/media/slider_bg.png": "/HotelExample.git/static/media/slider_bg.3a5c4628cbbd7c1ab446.png",
     "static/media/slider_bg_01.png": "/HotelExample.git/static/media/slider_bg_01.f99a6c9993ed094c672b.png",
@@ -64,11 +64,11 @@
     "static/media/fe-icon04.png": "/HotelExample.git/static/media/fe-icon04.7a1173e0a1e10252eac0.png",
     "index.html": "/HotelExample.git/index.html",
     "main.168b7139.css.map": "/HotelExample.git/static/css/main.168b7139.css.map",
-    "main.b7e3c1d3.js.map": "/HotelExample.git/static/js/main.b7e3c1d3.js.map",
+    "main.92329e2c.js.map": "/HotelExample.git/static/js/main.92329e2c.js.map",
     "787.2f223a0b.chunk.js.map": "/HotelExample.git/static/js/787.2f223a0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.168b7139.css",
-    "static/js/main.b7e3c1d3.js"
+    "static/js/main.92329e2c.js"
   ]
 }
